@@ -51,7 +51,8 @@ a1b2c3d Fix Android Studio lab compatibility issues
 4e5f6g7 Update Spring Boot dependencies for security patch
 7h8i9j0 Add CI/CD pipeline for CST2335 project
 k1l2m3n Refactor Java codebase for better maintainability
-o4p5q6r Initial commit: CST8319 EMS system architecture```
+o4p5q6r Initial commit: CST8319 EMS system architecture
+```
 
 ---
 
