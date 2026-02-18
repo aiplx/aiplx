@@ -1,50 +1,54 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+aiplx;Java+Developer+%7C+Tech+Enthusiast;Building+cool+stuff+in+North+America..." alt="Typing SVG" />
-</div>
+# 🚀 aiplx
 
-<h3 align="center">🚀 About Me</h3>
+**AI-Powered Developer | Open Source Enthusiast | Tech Explorer**
 
-<p align="center">
-  <samp>
-    > Entering system...<br>
-    > Loading profile...<br>
-    > <b>Current Status:</b> Coding, Learning, Evolving.<br>
-    > <b>Location:</b> North America 🌎<br>
-    > <b>Main Focus:</b> Java Ecosystem, Android Development, Enterprise Solutions.
-  </samp>
-</p>
+> "Code is poetry in motion. Debugging is archaeology of the mind."
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+## 🔧 Tech Stack
 
-<div align="center">
-  <!-- 语言 -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <br>
-  <!-- 工具/其他 -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+### Core Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 Stats & Activity
 
-<div align="center">
-  <!-- 统计卡片 - 使用暗黑极客主题 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aiplx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiplx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+![aiplx's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiplx&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=aiplx&theme=radical&no-frame=true&margin-w=4" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiplx&layout=compact&theme=radical&langs_count=6)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aiplx&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="aiplx" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aiplx&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiplx)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aiplx)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/aiplx)
+
+---
+
+## 📜 Recent Activity
+
+```bash
+$ git log --oneline -n 5
+a1b2c3d Fix Android Studio lab compatibility issues
+4e5f6g7 Update Spring Boot dependencies for security patch
+7h8i9j0 Add CI/CD pipeline for CST2335 project
+k1l2m3n Refactor Java codebase for better maintainability
+o4p5q6r Initial commit: CST8319 EMS system architecture
