@@ -52,25 +52,27 @@ a1b2c3d Fix Android Studio lab compatibility issues
 7h8i9j0 Add CI/CD pipeline for CST2335 project
 k1l2m3n Refactor Java codebase for better maintainability
 o4p5q6r Initial commit: CST8319 EMS system architecture
-🎯 Current Focus
+'''
+
+## 🎯 Current Focus
 AI-Powered Development Tools: Building smarter coding assistants
 Mobile Development: Android applications with modern architecture
 Open Source Education: Creating accessible learning resources for developers
 DevOps Automation: Streamlining CI/CD pipelines for educational projects
-📚 Featured Projects
+## 📚 Featured Projects
 Project	Description	Tech
 CST2335_031_W24_FinalProject	Final project for CST2335 course	Java, Android Studio
 CST8277pj4	Advanced Java programming project	Java, Spring Boot
 CST8319_EMS	Enterprise Management System	Java, REST APIs
 Pings_Android_Labs	Android development labs	Android Studio, Kotlin
-🧠 Philosophy
+## 🧠 Philosophy
 "The best code is not the most complex, but the most understandable. The best developer is not the fastest, but the most thoughtful."
 
 Build with purpose, not just for the sake of building
 Learn relentlessly - technology evolves, so must we
 Share knowledge freely - open source is about community, not just code
 Debug with curiosity, not frustration
-📈 Growth Metrics
+## 📈 Growth Metrics
 19 repositories | 24 stars | 0 followers | 3 following
 Achievements: Pull Shark 🦈, YOLO 🐙
 Pro Account: Yes ✅
@@ -79,4 +81,4 @@ Last updated: February 2026
 💡 Pro Tip: Want to contribute? Check out the Contribution Guidelines or open an issue with your ideas!
 
 © 2026 aiplx — Code with curiosity, build with purpose.
-```
+
